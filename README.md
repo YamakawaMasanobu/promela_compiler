@@ -22,4 +22,7 @@
 * ConvertedProgramでmakeする
 * 入力のPROMELAファイルのプロセス名をファイル名とするerlファイルが作成される
 
+#メモ
+ErlangとSPINとPythonのバージョンは修論を見てください
+
 
