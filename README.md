@@ -18,10 +18,8 @@
 * testpmlはparserのテストファイルが入ってます
 
 
-# スクリプト系色々
-* parserのテスト
-    *  csh testscript.csh
-* make
-    * PROMELA2CSで `make`
-    * ``make go`` ``make pr`` ``make cs`` で色々できる
+# 実行方法
+* ConvertedProgramでmakeする
+* 入力のPROMELAファイルのプロセス名をファイル名とするerlファイルが作成される
+
 
